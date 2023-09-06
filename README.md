@@ -17,8 +17,6 @@
       <center><b><font size="4" color="#000000"><br>
           </font></b></center>
     </h3>
-    <h3 style="font-family: Arial;"><font color="#ff0000">Due Date:
-        Sunday, April 2, 2023</font></h3>
     <h3 style="font-family: Arial;">Problem Description and Learning
       Objectives:</h3>
     <span style="font-family: Arial;"> In this assignment, you will
