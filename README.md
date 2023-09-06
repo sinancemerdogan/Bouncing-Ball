@@ -1,7 +1,7 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
 <html>
   <head>
-    <title>Bouncing Ball</title>
+    <h1>Bouncing Ball</h1>
     <meta content="Microsoft FrontPage 6.0" name="GENERATOR">
     <meta http-equiv="Content-Type" content="text/html;
       charset=windows-1252">
